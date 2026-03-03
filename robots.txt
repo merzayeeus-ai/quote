@@ -1,0 +1,224 @@
+# Roof Express — Quote Landing Page
+# https://quote.roof-ex.com | CSLB #1072766
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://quote.roof-ex.com/sitemap.xml
+
+# === SEARCH ENGINES ===
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: Storebot-Google
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# Bing & Microsoft
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+
+User-agent: YandexImages
+Allow: /
+
+# Brave Search
+User-agent: BraveBot
+Allow: /
+
+# Mojeek
+User-agent: MojeekBot
+Allow: /
+
+# Qwant
+User-agent: Qwantify
+Allow: /
+
+# Ecosia (uses Bing)
+User-agent: Ecosia
+Allow: /
+
+# Naver (Korea)
+User-agent: Yeti
+Allow: /
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+
+# === SOCIAL MEDIA ===
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+# Facebook / Meta
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# Twitter / X
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn
+User-agent: LinkedInBot
+Allow: /
+
+# Pinterest
+User-agent: Pinterestbot
+Allow: /
+
+# Snapchat
+User-agent: Snapchat
+Allow: /
+
+# WhatsApp
+User-agent: WhatsApp
+Allow: /
+
+# Telegram
+User-agent: TelegramBot
+Allow: /
+
+# Discord
+User-agent: Discordbot
+Allow: /
+
+# Slack
+User-agent: Slackbot
+Allow: /
+
+# === AI CRAWLERS ===
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic / Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Google Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Meta AI
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# Amazon / Alexa
+User-agent: Amazonbot
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft Copilot
+User-agent: CopilotBot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Phind
+User-agent: PhindBot
+Allow: /
+
+# === SEO & ANALYTICS TOOLS ===
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: DotBot
+Allow: /
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+User-agent: rogerbot
+Allow: /
+
+User-agent: SiteAuditBot
+Allow: /
+
+# === ARCHIVE ===
+User-agent: ia_archiver
+Allow: /
+
+# === BLOCK BAD BOTS ===
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
