@@ -1,0 +1,75 @@
+# Roof Express — Free Roofing Quote
+> Get a free roofing quote from the Bay Area's Diamond Certified, GAF Master Elite® roofing contractor. Same-day inspections available across San Francisco, Oakland, San Jose, and 60+ cities.
+
+## Company
+- **Name:** Roof Express
+- **Website:** https://roof-ex.com
+- **Quote Landing Page:** https://quote.roof-ex.com
+- **Contact Page:** https://quote.roof-ex.com/contact/
+- **License:** CSLB #1072766
+- **Phone:** 650-666-5554
+- **Email:** sales@roof-ex.com
+- **WhatsApp:** https://wa.me/16506665554
+- **Hours:** Mon–Sat 7 AM – 7 PM, Sunday by appointment, 24/7 emergency
+- **Founded:** 2017
+
+## Offices
+- 58 West Portal Avenue, San Francisco, CA 94127
+- 3790 El Camino Real, Palo Alto, CA 94306
+
+## Certifications
+- Diamond Certified
+- GAF Master Elite® Contractor
+- Owens Corning Platinum Preferred
+- CertainTeed Select ShingleMaster
+- BBB Accredited
+- Fully Insured & Bonded
+
+## Services
+- Roof Replacement
+- Roof Repair
+- Flat Roofing (TPO, Modified Bitumen)
+- Skylights
+- Gutters & Drainage
+- Residential Roofing
+- Commercial Roofing
+- Emergency Roof Repair (24/7)
+
+## Service Area
+San Francisco, Oakland, San Jose, Berkeley, Palo Alto, San Mateo, Daly City, Fremont, Mountain View, Redwood City, Sunnyvale, Santa Clara, Hayward, South San Francisco, Millbrae, Burlingame, San Bruno, Pacifica, Foster City, Menlo Park, Los Altos, Campbell, Cupertino, Saratoga, Los Gatos, Milpitas, Newark, Union City, Pleasanton, Livermore, Dublin, San Ramon, Walnut Creek, Concord, Richmond, El Cerrito, Albany, Emeryville, Alameda, San Leandro, San Rafael, Novato, Mill Valley
+
+## Pages
+- [Home](https://roof-ex.com)
+- [Free Quote](https://quote.roof-ex.com)
+- [Contact](https://quote.roof-ex.com/contact/)
+- [About](https://roof-ex.com/about)
+- [Reviews](https://roof-ex.com/reviews)
+- [Service Areas](https://roof-ex.com/service-areas)
+- [Gallery](https://roof-ex.com/gallery)
+- [Financing](https://roof-ex.com/financing)
+- [Residential](https://roof-ex.com/residential)
+- [Commercial](https://roof-ex.com/commercial)
+- [Roof Repair](https://roof-ex.com/roof-repair)
+- [Roof Replacement](https://roof-ex.com/roof-replacement)
+- [Flat Roofing](https://roof-ex.com/flat)
+- [Skylights](https://roof-ex.com/skylights)
+- [Gutters](https://roof-ex.com/gutters)
+- [Emergency](https://roof-ex.com/emergency)
+
+## Social
+- [Facebook](https://www.facebook.com/roof.exp/)
+- [Instagram](https://www.instagram.com/roof_exp/)
+- [YouTube](https://www.youtube.com/@Roof-Express)
+- [TikTok](https://www.tiktok.com/@roof.express)
+- [Yelp](https://www.yelp.com/biz/roof-express-san-francisco)
+- [Google](https://www.google.com/maps?cid=13257844389379386946)
+- [Diamond Certified](https://www.diamondcertified.org/report/roof-express/)
+- [BBB](https://www.bbb.org/us/ca/san-francisco/profile/roofing-contractors/roof-express-1116-926196)
+
+## Rating
+5.0/5 stars based on 85 reviews on Google
+
+## Conversion Tracking
+- GA4 Property: G-WJCTTYKQMF
+- Events: generate_lead (Jobber form, $100), contact/phone ($50), contact/whatsapp ($30), contact/email ($30)
+- Attribution: gclid, wbraid, gbraid, UTM parameters preserved via sessionStorage
