@@ -51,7 +51,8 @@
   <meta name="theme-color" content="#c04520">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Montserrat:wght@700;800;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Montserrat:wght@700;800;900&display=swap" rel="stylesheet"></noscript>
   <link rel="preload" as="image" href="/images/hero-roof.webp" type="image/webp">
   <script type="application/ld+json">
   {
@@ -337,7 +338,7 @@
     .bottom-bar a { flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 6px; padding: 16px 8px; border-radius: 16px; font-size: 10px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.1em; color: #fff; }
     .bottom-bar svg { width: 14px; height: 14px; flex-shrink: 0; }
     .bar-call { background: #1b3a57; }
-    .bar-wa { background: #3a8b47; }
+    .bar-wa { background: #1a6b2d; }
     .bar-quote { background: #b5522e; }
     @media (max-width: 1023px) { .bottom-bar { display: flex; } .footer { padding-bottom: 90px; } }
 
@@ -357,7 +358,7 @@
   <header class="header" role="banner">
     <div class="header-pill">
       <a href="https://roof-ex.com" class="header-logo" aria-label="Roof Express home">
-        <img src="/images/roof-express-logo.png" alt="Roof Express" width="320" height="80" loading="eager">
+        <img src="/images/roof-express-logo.png" alt="Roof Express" width="287" height="80" loading="eager">
       </a>
       <nav class="header-nav" aria-label="Main navigation">
         <a href="https://roof-ex.com">Home</a>
@@ -400,7 +401,7 @@
       <div class="hero-bg">
         <picture>
           <source srcset="/images/hero-roof.webp" type="image/webp">
-          <img src="/images/hero-roof.jpg" alt="Roof Express crew installing a new roof in the Bay Area" width="1920" height="1080" fetchpriority="high">
+          <img src="/images/hero-roof.jpg" alt="Roof Express crew installing a new roof in the Bay Area" width="1280" height="960" fetchpriority="high">
         </picture>
       </div>
       <div class="hero-overlay"></div>
@@ -513,7 +514,7 @@
         <p class="sec-desc">From first call to final walkthrough — we make it easy.</p>
         <div class="steps">
           <div class="step" data-testid="card-step-0">
-            <img src="/images/step-1-quote.webp" alt="Roof Express team reviewing quote on rooftop" class="step-img" width="400" height="300" loading="lazy">
+            <img src="/images/step-1-quote.webp" alt="Roof Express team reviewing quote on rooftop" class="step-img" width="480" height="480" loading="lazy">
             <div class="step-body">
               <div class="step-num">1</div>
               <h3>Request a Quote</h3>
@@ -521,7 +522,7 @@
             </div>
           </div>
           <div class="step" data-testid="card-step-1">
-            <img src="/images/step-2-estimate.webp" alt="Roof Express crew installing a new roof" class="step-img" width="400" height="300" loading="lazy">
+            <img src="/images/step-2-estimate.webp" alt="Roof Express crew installing a new roof" class="step-img" width="480" height="480" loading="lazy">
             <div class="step-body">
               <div class="step-num">2</div>
               <h3>Get Your Estimate</h3>
@@ -529,7 +530,7 @@
             </div>
           </div>
           <div class="step" data-testid="card-step-2">
-            <img src="/images/step-3-install.webp" alt="Completed roof installation by Roof Express" class="step-img" width="400" height="300" loading="lazy">
+            <img src="/images/step-3-install.webp" alt="Completed roof installation by Roof Express" class="step-img" width="480" height="480" loading="lazy">
             <div class="step-body">
               <div class="step-num">3</div>
               <h3>We Install</h3>
